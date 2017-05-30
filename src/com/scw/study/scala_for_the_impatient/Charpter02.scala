@@ -55,7 +55,7 @@ object Charpter02 {
 // 2.11 懒值
 // 当val被声明为lazy时，它的初始化将被推迟，直到首次对它取值，例如
    lazy val words = scala.io.Source.fromFile("文件路径").mkString
-   //lazy,val,def的区别，val在words被定义时即被取值，lazy在words首次使用时取值，def在每一次words被使用时取值
+// lazy,val,def的区别，val在words被定义时即被取值，lazy在words首次使用时取值，def在每一次words被使用时取值
 // 2.12 异常
 // 异常必须是java.lang.Throwable子类，没有“受检”异常   
 // throw表达式的类型是Nothing
