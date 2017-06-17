@@ -2,6 +2,6 @@ package com.scw.study.scala_for_the_impatient
 
 object Charpter16 {
    def main(args: Array[String]) = {
-     println("11")
+     println("XML´¦Àí..ÂÔ")
    }
 }

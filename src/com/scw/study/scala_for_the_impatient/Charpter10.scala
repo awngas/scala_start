@@ -1,7 +1,5 @@
 package com.scw.study.scala_for_the_impatient
 
-import javafx.scene.web.WebEngine.SelfDisposer
-
 object Charpter10 {
    def main(args: Array[String]) = {
      println("Ãÿ÷ ")
